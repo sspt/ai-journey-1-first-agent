@@ -1,0 +1,8 @@
+requests
+torch
+sounddevice
+coqui-tts
+faster-whisper
+pyaudio
+numpy
+soundfile
